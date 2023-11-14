@@ -627,6 +627,10 @@ pre code {
   padding-right: 15px;
   padding-left: 15px;
 }
+.imagenes {
+width: 50px;
+height: 50%;
+}
 
 .col {
   -webkit-flex-basis: 0;
